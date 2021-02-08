@@ -1,0 +1,5 @@
+POST http://localhost:8080/peopele
+Content-Type: application/json
+
+{
+}
